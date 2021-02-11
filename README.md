@@ -1,7 +1,6 @@
 # counter-vuex
 
-[Captura de pantalla 2021-02-11 a las 12.25.04]
-
+[alt text](https://github.com/aguzsol/counter-vuex/Captura de pantalla 2021-02-11 a las 12.25.04.png)
 Proceso ejercicio:
 
 1. crear componente: CounterComponent.vue
