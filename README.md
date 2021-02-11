@@ -1,5 +1,7 @@
 # counter-vuex
 
+[Captura de pantalla 2021-02-11 a las 12.25.04]
+
 Proceso ejercicio:
 
 1. crear componente: CounterComponent.vue
